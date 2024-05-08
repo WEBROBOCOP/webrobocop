@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**WEBROBOCOP/webrobocop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## David Etim 
+About me 
+My name is David Etim, and am currently on the journey to mastering the skills of software and web development, 
+I am from Nigeria currently living in berlin
+studying with DCI
 
-Here are some ideas to get you started:
+   ## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   - [MOVIE(link to the project) - short description of the project
+   - [Project Name](link to the project) - short description of the project
+
+   ## How to Reach Me
+
+   - [LinkedIn](linkedin.com/in/davidedwin)
+   
+  ## Fun Fact
+
+# i am Passionate about...
+Food
+Geography
+Travel
+Coding
+Music  
+   ```
+
+## i love  taking photo
+![image](camphoto_1804928587.JPG)
+
