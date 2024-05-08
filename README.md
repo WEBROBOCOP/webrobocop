@@ -13,7 +13,8 @@ studying with DCI
 
    ## How to Reach Me
 
-   - [LinkedIn](linkedin.com/in/davidedwin)
+   - [LinkedIn](www.linkedin.com/in/
+davidedwinetim)
    
   ## Fun Fact
 
