@@ -26,6 +26,6 @@ studying with DCI
 -Music  
    ```
 
-## i love  taking photo
+## I love  taking photo
 ![image](camphoto_1804928587.JPG)
 
