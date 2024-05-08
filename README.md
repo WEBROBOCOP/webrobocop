@@ -18,11 +18,11 @@ studying with DCI
   ## Fun Fact
 
 # i am Passionate about...
-Food
-Geography
-Travel
-Coding
-Music  
+-Food
+-Geography
+-Travel
+-Coding
+-Music  
    ```
 
 ## i love  taking photo
