@@ -13,7 +13,7 @@ studying with DCI
 
    ## How to Reach Me
 
-   - [LinkedIn](www.linkedin.com/in/davidedwinetim)
+   - [LinkedIn] (www.linkedin.com/in/davidedwinetim)
    
   ## Fun Fact
 
