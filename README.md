@@ -17,7 +17,7 @@ studying with DCI
    
   ## Fun Fact
 
-# i am Passionate about...
+# I am Passionate about...
  ```
 -Food
 -Geography
