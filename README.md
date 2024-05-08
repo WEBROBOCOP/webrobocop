@@ -8,8 +8,8 @@ studying with DCI
 
    ## Projects
 
-   - [MOVIE(link to the project) - short description of the project
-   - [Project Name](link to the project) - short description of the project
+   - [Travel guide](https://github.com/VadimSchebanech/Travel-Guide.git)- i work with my team mate on a travel guide
+   - [collab demo](https://github.com/WD24-E04/collab-demo.git) - This was a collab demo with team mate
 
    ## How to Reach Me
 
